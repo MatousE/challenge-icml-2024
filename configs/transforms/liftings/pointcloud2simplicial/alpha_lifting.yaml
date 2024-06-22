@@ -1,0 +1,5 @@
+transform_type: 'lifting'
+transform_name: "SimplicialAlphaLifting"
+complex_dim: 2
+alpha: 0.2
+feature_lifting: ProjectionSum
